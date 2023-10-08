@@ -12,8 +12,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,docker,nginx,html,css,js,ts,postman,git,github,postgres" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mih4n&show_icons=true&locale=en&layout=compact" alt="mih4n" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mih4n&show_icons=true&locale=en&layout=compact" alt="mih4n" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mih4n&show_icons=true&locale=en" alt="mih4n" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mih4n&" alt="mih4n" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mih4n&" alt="mih4n" /></p>-->
