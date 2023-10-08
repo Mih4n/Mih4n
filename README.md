@@ -1,3 +1,5 @@
+<div align="center"> <img src="https://raw.githubusercontent.com/mih4n/mih4n/main/mih4n2.png" style="width: 100%"> </div>
+
 <h1 align="center">Hi 👋, I'm Mikhail</h1>
 <h3 align="center">Fullstack developer from Belarus</h3>
 
