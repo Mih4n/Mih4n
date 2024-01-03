@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href = "https://discord.com/users/482593958451478529"><div href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=discord"/></div></a>
 <a href = "www.linkedin.com/in/mih4n">
-<div href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=discord"/></div></a>
+<div href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linkedin"/></div></a>
 <a href="" class="ssk ssk-twitter ssk-rounded ssk-lg"></a>
 
 <h3 align="left">Languages and Tools:</h3>
