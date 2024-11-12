@@ -12,4 +12,4 @@
 <a href="" class="ssk ssk-twitter ssk-rounded ssk-lg"></a>
 
 <h3 align="left">Languages and Tools:</h3>
-<div href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,docker,nginx,html,css,js,ts,postman,git,github,postgres" /></div>
+<div href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,nginx,html,css,js,ts,vue,nuxt,less,git,github" /></div>
